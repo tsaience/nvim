@@ -1,0 +1,4 @@
+plugin/
+pack/
+node_modules/
+*.log
